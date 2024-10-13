@@ -1,2 +1,2 @@
 # Object-Oriented-Programming_Java
-OOP concept project for example 
+OOP concept projects. These are University tutorial projects.  
